@@ -1,0 +1,2 @@
+5.29 resnet50v2
+5.51 xception
